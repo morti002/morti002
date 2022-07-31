@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-<--
-**morti002/morti002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ✨ My name is Tim and I'm from New York City✨
 
 - 🔭 I’m currently working on ... house_prices_ames_iowa (A begginer project from Kaggle).
 - 🌱 I’m currently learning ... DataCamp.
@@ -11,4 +9,3 @@
 - 📫 How to reach me: ... 
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I used to love sports, now I love eating!
--->
